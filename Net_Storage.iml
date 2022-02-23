@@ -10,6 +10,21 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Maven: org.openjfx:javafx-controls:17-ea+11" level="project" />
+    <orderEntry type="library" name="Maven: org.openjfx:javafx-controls:win:17-ea+11" level="project" />
+    <orderEntry type="library" name="Maven: org.openjfx:javafx-graphics:17-ea+11" level="project" />
+    <orderEntry type="library" name="Maven: org.openjfx:javafx-graphics:win:17-ea+11" level="project" />
+    <orderEntry type="library" name="Maven: org.openjfx:javafx-base:17-ea+11" level="project" />
+    <orderEntry type="library" name="Maven: org.openjfx:javafx-base:win:17-ea+11" level="project" />
+    <orderEntry type="library" name="Maven: org.openjfx:javafx-fxml:17-ea+11" level="project" />
+    <orderEntry type="library" name="Maven: org.openjfx:javafx-fxml:win:17-ea+11" level="project" />
+    <orderEntry type="library" name="Maven: org.controlsfx:controlsfx:11.1.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.junit.jupiter:junit-jupiter-api:5.7.1" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.apiguardian:apiguardian-api:1.1.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.opentest4j:opentest4j:1.2.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.junit.platform:junit-platform-commons:1.7.1" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.junit.jupiter:junit-jupiter-engine:5.7.1" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.junit.platform:junit-platform-engine:1.7.1" level="project" />
     <orderEntry type="library" name="Maven: io.netty:netty-all:4.1.72.Final" level="project" />
     <orderEntry type="library" name="Maven: io.netty:netty-buffer:4.1.72.Final" level="project" />
     <orderEntry type="library" name="Maven: io.netty:netty-codec:4.1.72.Final" level="project" />
@@ -44,20 +59,5 @@
     <orderEntry type="library" scope="RUNTIME" name="Maven: io.netty:netty-transport-native-kqueue:osx-aarch_64:4.1.72.Final" level="project" />
     <orderEntry type="library" scope="RUNTIME" name="Maven: io.netty:netty-resolver-dns-native-macos:osx-x86_64:4.1.72.Final" level="project" />
     <orderEntry type="library" scope="RUNTIME" name="Maven: io.netty:netty-resolver-dns-native-macos:osx-aarch_64:4.1.72.Final" level="project" />
-    <orderEntry type="library" name="Maven: org.openjfx:javafx-controls:17-ea+11" level="project" />
-    <orderEntry type="library" name="Maven: org.openjfx:javafx-controls:win:17-ea+11" level="project" />
-    <orderEntry type="library" name="Maven: org.openjfx:javafx-graphics:17-ea+11" level="project" />
-    <orderEntry type="library" name="Maven: org.openjfx:javafx-graphics:win:17-ea+11" level="project" />
-    <orderEntry type="library" name="Maven: org.openjfx:javafx-base:17-ea+11" level="project" />
-    <orderEntry type="library" name="Maven: org.openjfx:javafx-base:win:17-ea+11" level="project" />
-    <orderEntry type="library" name="Maven: org.openjfx:javafx-fxml:17-ea+11" level="project" />
-    <orderEntry type="library" name="Maven: org.openjfx:javafx-fxml:win:17-ea+11" level="project" />
-    <orderEntry type="library" name="Maven: org.controlsfx:controlsfx:11.1.0" level="project" />
-    <orderEntry type="library" scope="TEST" name="Maven: org.junit.jupiter:junit-jupiter-api:5.7.1" level="project" />
-    <orderEntry type="library" scope="TEST" name="Maven: org.apiguardian:apiguardian-api:1.1.0" level="project" />
-    <orderEntry type="library" scope="TEST" name="Maven: org.opentest4j:opentest4j:1.2.0" level="project" />
-    <orderEntry type="library" scope="TEST" name="Maven: org.junit.platform:junit-platform-commons:1.7.1" level="project" />
-    <orderEntry type="library" scope="TEST" name="Maven: org.junit.jupiter:junit-jupiter-engine:5.7.1" level="project" />
-    <orderEntry type="library" scope="TEST" name="Maven: org.junit.platform:junit-platform-engine:1.7.1" level="project" />
   </component>
 </module>

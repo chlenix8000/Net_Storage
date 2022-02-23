@@ -3,7 +3,7 @@
 <?import javafx.scene.control.*?>
 <?import javafx.scene.layout.*?>
 
-<Pane fx:controller="com.example.net_storage.NetStorageController"  maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="399.0" prefWidth="500.0" xmlns="http://javafx.com/javafx/11.0.2" xmlns:fx="http://javafx.com/fxml/1">
+<Pane fx:controller="com.example.net_storage.ClientController" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="399.0" prefWidth="500.0" xmlns="http://javafx.com/javafx/11.0.2" xmlns:fx="http://javafx.com/fxml/1">
     <children>
         <ListView layoutX="289.0" layoutY="36.0" prefHeight="350.0" prefWidth="200.0" />
         <Label fx:id="lblU" layoutX="14.0" layoutY="15.0" prefHeight="20.0" prefWidth="100.0" text="Username: " />

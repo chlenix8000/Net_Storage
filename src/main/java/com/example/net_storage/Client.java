@@ -7,10 +7,10 @@ import javafx.stage.Stage;
 
 import java.io.IOException;
 
-public class NetStorageClient extends Application {
+public class Client extends Application {
     @Override
     public void start(Stage stage) throws IOException {
-        FXMLLoader fxmlLoader = new FXMLLoader(NetStorageClient.class.getResource("view.fxml"));
+        FXMLLoader fxmlLoader = new FXMLLoader(Client.class.getResource("view.fxml"));
         Scene scene = new Scene(fxmlLoader.load(), 500, 400);
         stage.setTitle("Your Net Storage");
         stage.setScene(scene);
